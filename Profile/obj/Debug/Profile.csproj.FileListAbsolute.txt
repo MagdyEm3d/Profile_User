@@ -1,0 +1,29 @@
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Sign in.g.cs
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Sign up.g.cs
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\App.g.cs
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile_Content.g.cs
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile_MarkupCompile.cache
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile_MarkupCompile.lref
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile_Page.g.cs
+C:\Users\hp\Desktop\Profile\Profile\bin\Debug\Profile.exe.config
+C:\Users\hp\Desktop\Profile\Profile\bin\Debug\Profile.exe
+C:\Users\hp\Desktop\Profile\Profile\bin\Debug\Profile.pdb
+C:\Users\hp\Desktop\Profile\Profile\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\Profile\Profile\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\Profile\Profile\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\Profile\Profile\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\MainWindow.baml
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile_Page.baml
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Sign in.baml
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Sign up.baml
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile.g.resources
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile.Properties.Resources.resources
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile.csproj.CopyComplete
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile.exe
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Profile.pdb
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Forgit Password.g.cs
+C:\Users\hp\Desktop\Profile\Profile\obj\Debug\Forgit Password.baml
