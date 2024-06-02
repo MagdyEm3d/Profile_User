@@ -1,0 +1,14 @@
+create table userr(
+id int identity(1,1) primary key,
+username varchar(255),
+password varchar(255),
+age int,
+city varchar(255),
+gender varchar(10) check (gender in('Male','Female')),
+phonenumber varchar(11) check(len(phonenumber)=11)
+);
+
+insert into userr(username,password,age,city,gender,phonenumber)values
+('Magdy','Magdy@123',17,'Cairo','Male','01224447482'),
+('Emad','Emad@123',50,'Alex','Male','01224447483'),
+('Ahmed','Ahmed@123',20,'Pairs','Male','01224447484');
